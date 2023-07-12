@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋! My name is Richard ... and I'm a````</dev>``` , from Chile</h2>
+<h2 align="center">Hi 👋! My name is Richard ... and I'm a dev , from Chile</h2>
   
 
 
