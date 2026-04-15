@@ -69,28 +69,22 @@ I'm not a specialist — I'm a **multiplier**. I sit at the intersection of tech
 
 <div align="center">
   <img src="https://github-readme-stats-five-ecru-34.vercel.app/api?username=CorsairRom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=CorsairRom&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&background=0d1117" height="165" />
+  <img src="https://github-readme-stats-five-ecru-34.vercel.app/api/top-langs/?username=CorsairRom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-five-ecru-34.vercel.app/api/top-langs/?username=CorsairRom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CorsairRom&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="98%" />
 </div>
 
 ---
 
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="28px"/>
-  GitHub Activity
+  Contribution Graph
   <img src="https://i.imgur.com/dBaSKWF.gif" width="28px"/>
 </h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CorsairRom/CorsairRom/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CorsairRom/CorsairRom/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/CorsairRom/CorsairRom/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-  </picture>
-
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution graph" />
 </div>
 
