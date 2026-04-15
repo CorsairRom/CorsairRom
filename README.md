@@ -68,12 +68,12 @@ I'm not a specialist — I'm a **multiplier**. I sit at the intersection of tech
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CorsairRom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
+  <img src="https://github-readme-stats-five-ecru-34.vercel.app/api?username=CorsairRom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=CorsairRom&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&background=0d1117" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsairRom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-five-ecru-34.vercel.app/api/top-langs/?username=CorsairRom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
 </div>
 
 ---
