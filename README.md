@@ -90,6 +90,8 @@ I'm not a specialist — I'm a **multiplier**. I sit at the intersection of tech
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CorsairRom/CorsairRom/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/CorsairRom/CorsairRom/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
   </picture>
+
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution graph" />
 </div>
 
 ---
